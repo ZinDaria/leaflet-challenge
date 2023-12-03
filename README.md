@@ -19,3 +19,6 @@ Legend is provided to interpret depth levels.
 Earthquake data: USGS Earthquake Hazards Program
 Leaflet: Leaflet Documentation
 D3.js: D3.js Documentation
+
+Dataset created by the United States Geological Survey
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
